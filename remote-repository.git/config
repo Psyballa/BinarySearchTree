@@ -1,9 +1,0 @@
-[core]
-	repositoryformatversion = 0
-	filemode = true
-	bare = true
-[remote "origin"]
-	url = /home/psyballa/GitTutorial/.
-[branch "master"]
-	remote = origin
-	merge = refs/heads/master
