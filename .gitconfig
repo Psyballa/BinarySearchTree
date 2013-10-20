@@ -1,0 +1,14 @@
+[push]
+	default = simple
+[user]
+	name = Psyballa
+	pass = 1337shit
+	email = justin.telmo@gmail.com
+[color]
+	ui = true
+	status = auto
+	branch = auto
+[core]
+	editor = vim
+[merge]
+	tool = kdiff3

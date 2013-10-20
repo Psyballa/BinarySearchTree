@@ -1,0 +1,8 @@
+
+Google Maps: Parking Edition
+
+- Should find out where to park around a certain location
+- Color-coded:
+   - Green: free parking (discrete time period?)
+   - Yellow: Moderate difficulty finding parking
+   - Red: No parking/Hard to find parking
